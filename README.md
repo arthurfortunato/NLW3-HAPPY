@@ -19,7 +19,7 @@ Tem o objetivo de facilitar a visitação e o conhecimento sobre os lares adotiv
 
 ## 🚀 Tecnologias
 
- >>[Node.js](https://nodejs.org/en/)   >>[Express](https://expressjs.com/pt-br/)   >>[SQLite](https://www.sqlite.org/index.html)  >>[handlebars](https://handlebarsjs.com/)
+ >>[Node.js](https://nodejs.org/en/)   >>[Express](https://expressjs.com/pt-br/)   >>[SQLite](https://www.sqlite.org/index.html)  >>[Typescript](https://www.typescriptlang.org/)
 
 ## 📝 Licença 
 
