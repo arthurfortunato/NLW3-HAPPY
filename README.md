@@ -13,7 +13,7 @@ Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**
 Tem o objetivo de facilitar a visitação e o conhecimento sobre os lares adotivos de crianças.
 
 <p align="center">
-  <img alt="Happy" src=".github/Home.png" width="80%">
+  <img alt="Happy" src=".github/Landing.png" width="80%">
 </p>
 
 
