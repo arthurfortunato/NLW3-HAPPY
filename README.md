@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/arthurfortunato/NLW3-HAPPY/5693bb2ac33f933eba555cdf81f395921e53b560/web/src/images/map-marker.svg" width="30"" />
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -10,6 +10,10 @@
 ## 💻 Projeto
 
 Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**!! :rocket::rocket:
+
+<p align="center">
+  <img alt="Happy" src=".github/Home.png" width="80%">
+</p>
 
 
 ## 🚀 Tecnologias
