@@ -1,14 +1,14 @@
-# NLW #3 // Happy - Backend
+# NLW #3 // Happy - Backend  <img src = "https://raw.githubusercontent.com/arthurfortunato/NLW3-HAPPY/d3b452a271538b52ec98cf447d0697b27b065c9d/web/src/images/logo.svg" width="150">
 
 ## Init
 
 Instale as dependências com `yarn install` e rode o projeto usando `yarn dev`.
 
-Se tudo estiver ok com a instalação, a aplicação poderá ser acessada em `localhost:3333`.
+A aplicação poderá ser acessada em `localhost:3333`.
 
 ## Database
 
-Criar migrations usando `yarn typeorm migration:create -n nome_migration`.
+Para criar migrations use: `yarn typeorm migration:create -n nome_migration`.
 
 ## Tools
 
@@ -17,29 +17,3 @@ Criar migrations usando `yarn typeorm migration:create -n nome_migration`.
 - Multer - *upload images*
 - Yup - *validation*
 
-## Project files structure
-
-```
-/src
-    /config
-        ..upload.ts
-    /controllers
-        ..OrphanagesController.ts
-    /database
-        /migrations
-        ..connection.ts
-        ..database.sqlite
-    /errors
-        ..handler.ts
-    /models
-        ..Image.ts
-        ..Orphanage.ts
-    /views
-        ..images_view.ts
-        ..orphanages_view.ts
-    ..routes.ts
-    ..server.ts
-/uploads
-..ormconfig.json
-..tsconfig.json
-```
