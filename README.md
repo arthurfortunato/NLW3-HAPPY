@@ -10,6 +10,7 @@
 ## 💻 Projeto
 
 Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**!! :rocket::rocket:
+Tem o objetivo de facilitar a visitação e o conhecimento sobre os lares adotivos de crianças.
 
 <p align="center">
   <img alt="Happy" src=".github/Home.png" width="80%">
