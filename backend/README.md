@@ -8,7 +8,11 @@ A aplicação poderá ser acessada em `localhost:3333`.
 
 ## Database
 
+<<<<<<< Updated upstream
 Para criar migrations use: `yarn typeorm migration:create -n nome_migration`.
+=======
+Para riar migrations  use `yarn typeorm migration:create -n nome_migration`.
+>>>>>>> Stashed changes
 
 ## Tools
 
@@ -16,4 +20,7 @@ Para criar migrations use: `yarn typeorm migration:create -n nome_migration`.
 - TypeORM e SQLite - *database*
 - Multer - *upload images*
 - Yup - *validation*
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
